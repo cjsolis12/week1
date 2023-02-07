@@ -1,3 +1,4 @@
+/* Universal Selectors */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header and navbar */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,6 +51,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* End of header and navbar */
 
 .hero {
     height: 800px;
