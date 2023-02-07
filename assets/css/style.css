@@ -65,8 +65,8 @@ p {
 }
 /* End of main hero image */
 
-/* Main content 3 articles */
 
+/* Main content 3 articles */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -82,6 +82,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* Article styling */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -91,19 +92,11 @@ p {
     color: #ffffff;
 }
 
-
-
-.search-engine-optimization img {
+/* Article images */
+article img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
