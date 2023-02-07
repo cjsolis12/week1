@@ -130,24 +130,14 @@ article img {
     text-align: center;
 }
 
-
-.benefit-lead img {
+/* Right aside icons */
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 
 .footer {
