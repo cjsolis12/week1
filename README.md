@@ -8,3 +8,9 @@ This project was to make the webpage meet accessibility standards and refactor t
 - git clone to terminal with github https/ssh link
 
 ## Usage
+
+https://cjsolis12.github.io/week1_challenge/
+
+## Credits
+
+https://www.w3schools.com/html/html_elements.asp
