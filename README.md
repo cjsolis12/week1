@@ -9,6 +9,11 @@ This project was to make the webpage meet accessibility standards and refactor t
 
 ## Usage
 
+```md
+![alt text](assets\images\01-html-css-git-homework-demo.png)
+```
+
+
 https://cjsolis12.github.io/week1_challenge/
 
 ## Credits
